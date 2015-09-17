@@ -1,0 +1,24 @@
+{
+  "name": "jasmine-xpath-react",
+  "version": "0.0.1",
+  "description": "XPath matchers for React elements.",
+  "main": "lib/jasmine_xpath_react.js",
+  "author": "Jonas Amundsen <jonasba@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/badeball/jasmine-xpath-react.git"
+  },
+  "dependencies": {
+    "xpath-react": "badeball/xpath-react"
+  },
+  "devDependencies": {
+    "babel": "5.8.23",
+    "eslint": "0.24.1",
+    "jasmine": "2.3.2",
+    "react": "0.13.3"
+  },
+  "files": [
+    "lib"
+  ],
+  "license": "MIT"
+}
