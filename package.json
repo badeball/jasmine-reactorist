@@ -1,12 +1,12 @@
 {
-  "name": "jasmine-xpath-react",
+  "name": "jasmine-reactorist",
   "version": "0.0.1",
   "description": "XPath matchers for React elements.",
   "main": "lib/jasmine_xpath_react.js",
   "author": "Jonas Amundsen <jonasba@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/badeball/jasmine-xpath-react.git"
+    "url": "git://github.com/badeball/jasmine-reactorist.git"
   },
   "dependencies": {
     "reactorist": "badeball/reactorist"

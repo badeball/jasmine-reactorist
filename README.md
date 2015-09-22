@@ -1,4 +1,4 @@
-# jasmine-xpath-react
+# jasmine-reactorist
 
 XPath matchers for [React][react] elements. It is recommended that you use
 [shallow rendering][shallow-rendering] of components and make your assertion on
@@ -10,7 +10,7 @@ its output.
 ## Usage
 
 ```javascript
-jasmine.addMatchers(require("jasmine-xpath-react"));
+jasmine.addMatchers(require("jasmine-reactorist"));
 ```
 
 ```javascript
