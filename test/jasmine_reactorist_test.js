@@ -25,9 +25,9 @@ var element = React.createElement(
   )
 );
 
-describe("jasmine-reactorist", function () {
+describe("jasmine-xpath-react", function () {
   beforeAll(function() {
-    jasmine.addMatchers(require("../lib/jasmine_reactorist"));
+    jasmine.addMatchers(require("../lib/jasmine_xpath_react"));
   });
 
   it("should throw when given something other than a React element", function () {

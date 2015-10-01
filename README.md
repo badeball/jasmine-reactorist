@@ -1,6 +1,6 @@
-# jasmine-reactorist
+# jasmine-xpath-react
 
-[![Build Status](https://travis-ci.org/badeball/jasmine-reactorist.svg?branch=master)](https://travis-ci.org/badeball/jasmine-reactorist)
+[![Build Status](https://travis-ci.org/badeball/jasmine-xpath-react.svg?branch=master)](https://travis-ci.org/badeball/jasmine-xpath-react)
 
 XPath matchers for [React][react] elements. It is recommended that you use
 [shallow rendering][shallow-rendering] of components and make your assertion on
@@ -12,7 +12,7 @@ its output.
 ## Usage
 
 ```javascript
-jasmine.addMatchers(require("jasmine-reactorist"));
+jasmine.addMatchers(require("jasmine-xpath-react"));
 ```
 
 ```javascript
