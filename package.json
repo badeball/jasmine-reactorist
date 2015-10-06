@@ -1,6 +1,6 @@
 {
   "name": "jasmine-xpath-react",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "XPath matchers for React elements.",
   "main": "lib/jasmine_xpath_react.js",
   "author": "Jonas Amundsen <jonasba@gmail.com>",
